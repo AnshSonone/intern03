@@ -13,6 +13,12 @@ A simple Express.js RESTful API for managing a list of books. Supports CRUD oper
 
 ---
 
+## Screenshot
+
+how json api look like
+![Screenshot (12)](https://github.com/user-attachments/assets/94363173-b4ca-487b-a230-584ca62b0090)
+
+
 ## 🛠️ Tech Stack
 
 - Node.js
